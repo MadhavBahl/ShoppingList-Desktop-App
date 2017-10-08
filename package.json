@@ -1,0 +1,22 @@
+{
+  "name": "shoppinglist",
+  "version": "1.0.0",
+  "description": "ShoppingList-Desktop-App",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadhavBahlMD/ShoppingList-Desktop-App.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MadhavBahlMD/ShoppingList-Desktop-App/issues"
+  },
+  "homepage": "https://github.com/MadhavBahlMD/ShoppingList-Desktop-App#readme",
+  "dependencies": {
+    "electron": "^1.7.8"
+  }
+}
